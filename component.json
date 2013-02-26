@@ -1,13 +1,13 @@
 {
-  name: "jquery",
-  version: "2.0.0pre",
-  description: "jQuery component",
-  keywords: [
+  "name": "jquery",
+  "version": "2.0.0pre",
+  "description": "jQuery component",
+  "keywords": [
     "jquery",
     "component"
   ],
-  scripts: [
+  "scripts": [
     "dist/jquery.js"
   ],
-  license: "MIT"
+  "license": "MIT"
 }
